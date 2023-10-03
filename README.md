@@ -1,6 +1,9 @@
 # Assignment 1 
 ## Done by Enriq Mah 
 
+This remote repository is created for the purpose of ST2195 Assignment practice.
+Done by *Enriq Mah* 
+
 This assignment folder contains 
 1. A "README.md” file with a short markdown description of this 
 assignment (This file) 
